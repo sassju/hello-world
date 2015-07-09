@@ -1,4 +1,4 @@
 # hello-world
 My first repository in GitHub!
 
-This repository is a test so that I can learn more about GitHub. 
+My name is Justin, and I am learning about the process of software development.
